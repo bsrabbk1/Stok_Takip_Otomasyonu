@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stok_Takip_Otomasyonu", "Stok_Takip_Otomasyonu\Stok_Takip_Otomasyonu.csproj", "{6A98C727-00E5-4D94-8F24-2CD243E78A0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A98C727-00E5-4D94-8F24-2CD243E78A0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A98C727-00E5-4D94-8F24-2CD243E78A0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A98C727-00E5-4D94-8F24-2CD243E78A0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A98C727-00E5-4D94-8F24-2CD243E78A0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78B2C477-A68D-4022-A71D-3DFD6154DC83}
+	EndGlobalSection
+EndGlobal
